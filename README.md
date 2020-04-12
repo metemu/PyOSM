@@ -28,10 +28,7 @@ wget -O target.osm "https://overpass-api.de/api/interpreter?data=node[name=\"Gie
 Ayrıca https://overpass-turbo.eu/ adresinden web tarayıcısı ile sorgulama yaparak da istenen veri filtrelenerek harita üzerinde görülebilir ve JSON/GeoJSON, GPX, KML, raw OSM data formatlarında indirilebilir. Örneğin; İstanbul iline ait yol verisini indirmek için sorgu kısmına aşağıdaki komutlar yazılmalıdır:
 
 [out:json][timeout:25];
-(
-  area[name="İstanbul"];
-  way(area)[highway][name];
-);
+(area[name="İstanbul"]; way(area)[highway][name];);
 out body;
 >;
 out skel qt;
@@ -65,3 +62,5 @@ https://extract.bbbike.org/
 <img src="https://github.com/metemu/PyOSM/blob/master/images/bbbike.PNG" width="800" height="400">
 
 ## Python ile OSM Overpass API üzerinden veri indirme yöntemleri için <a href="https://nbviewer.jupyter.org/github/metemu/PyOSM/blob/master/PyOSM.ipynb">PyOSM.pynb</a> dosyasına göz atabilirsiniz.
+
+[Muhammed Oğuzhan METE](https://web.itu.edu.tr/metemu) | metemu@itu.edu.tr
