@@ -58,7 +58,7 @@ Veri indirmenin bir başka yolu ise günlük olarak güncellenen ülke/bölge ve
 
 https://download.geofabrik.de
 
-<img src="https://github.com/metemu/PyOSM/blob/master/images/geofabrik.PNG" width="800" height="400">
+<img src="https://github.com/metemu/PyOSM/blob/master/images/geofabrik.PNG">
 
 # OSM'den nasıl veri indirilir?
 
@@ -66,7 +66,7 @@ Eğer veriler sorgulama yapılmadan il/ilçe/mahalle ölçeğinde indirilmek ist
 
 https://extract.bbbike.org/
 
-<img src="https://github.com/metemu/PyOSM/blob/master/images/bbbike.PNG" width="800" height="400">
+<img src="https://github.com/metemu/PyOSM/blob/master/images/bbbike.PNG">
 
 ## Python ile [OSM Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) üzerinden veri indirme yöntemleri için [PyOSM.ipynb](https://nbviewer.jupyter.org/github/metemu/PyOSM/blob/master/PyOSM.ipynb) notebook dosyasına göz atabilirsiniz.
 
