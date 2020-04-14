@@ -68,6 +68,6 @@ https://extract.bbbike.org/
 
 <img src="https://github.com/metemu/PyOSM/blob/master/images/bbbike.PNG" width="800" height="400">
 
-## Python ile [OSM Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) üzerinden veri indirme yöntemleri için [PyOSM.ipynb](https://nbviewer.jupyter.org/github/metemu/PyOSM/blob/master/PyOSM.ipynb) dosyasına göz atabilirsiniz.
+## Python ile [OSM Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) üzerinden veri indirme yöntemleri için [PyOSM.ipynb](https://nbviewer.jupyter.org/github/metemu/PyOSM/blob/master/PyOSM.ipynb) notebook dosyasına göz atabilirsiniz.
 
 [Muhammed Oğuzhan METE](https://web.itu.edu.tr/metemu) | metemu@itu.edu.tr
