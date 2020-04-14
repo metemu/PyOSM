@@ -41,6 +41,8 @@ https://overpass-turbo.eu/
 
 <img src="https://github.com/metemu/PyOSM/blob/master/images/overpass-turbo.PNG" width="800" height="400">
 
+<img src="https://github.com/metemu/PyOSM/blob/master/images/road.PNG">
+
 Ayrıca bknz.
 
 [Overpass API sorgu örnekleri](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example)
