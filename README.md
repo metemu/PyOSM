@@ -27,15 +27,13 @@ wget -O target.osm "https://overpass-api.de/api/interpreter?data=node[name=\"Gie
 
 Ayrıca https://overpass-turbo.eu/ adresinden web tarayıcısı ile sorgulama yaparak da istenen veri filtrelenerek harita üzerinde görülebilir ve JSON/GeoJSON, GPX, KML, raw OSM data formatlarında indirilebilir. Örneğin; İstanbul iline ait yol verisini indirmek için sorgu kısmına aşağıdaki komutlar yazılmalıdır:
 
-'''
-
+```
 [out:json][timeout:25];
 (area[name="İstanbul"]; way(area)[highway][name];);
 out body;
 >;
 out skel qt;
-
-'''
+```
 
 # İstanbul İline ait yol verisi
 
