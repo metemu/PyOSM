@@ -29,9 +29,12 @@ Ayrıca https://overpass-turbo.eu/ adresinden web tarayıcısı ile sorgulama ya
 
 ```
 [out:json][timeout:25];
-(area[name="İstanbul"]; way(area)[highway][name];);
+(
+  area[name="İstanbul"];
+  way["highway"](area);
+);
 out body;
->;
+(._; >;);
 out skel qt;
 ```
 
