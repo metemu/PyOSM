@@ -1,8 +1,8 @@
 <img src="https://github.com/metemu/PyOSM/blob/master/images/intro.PNG" width="800" height="400">
 
-# OpenStreetMap (OSM)
+# OpenStreetMap
 
-OSM, Wikipedia'nın başarısından esinlerek tüm dünyanın haritasını üretmek amacıyla 2004 yılında başlatılan katılımcı bir projedir. OSM'nin genel kullanım amaçları harita servisi, geocoding, reverse geocoding, rota planlama olarak sıralanabilir.
+OpenStreetMap (OSM), Wikipedia'nın başarısından esinlerek tüm dünyanın haritasını üretmek amacıyla 2004 yılında başlatılan katılımcı bir projedir. OSM'nin genel kullanım amaçları harita servisi, geocoding, reverse geocoding, rota planlama olarak sıralanabilir.
 
 https://www.openstreetmap.org
 
@@ -41,11 +41,11 @@ https://overpass-turbo.eu/
 
 <img src="https://github.com/metemu/PyOSM/blob/master/images/overpass-turbo.PNG" width="800" height="400">
 
-Overpass API sorgu örnekleri için:
-https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example
+Ayrıca bknz.
 
-OSM Feature Types için:
-https://wiki.openstreetmap.org/wiki/Map_Features
+[Overpass API sorgu örnekleri](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example)
+
+[OSM Feature Types](https://wiki.openstreetmap.org/wiki/Map_Features)
 
 # OSM'den nasıl veri indirilir?
 
