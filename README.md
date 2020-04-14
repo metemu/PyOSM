@@ -6,7 +6,7 @@ OpenStreetMap (OSM), Wikipedia'nın başarısından esinlerek tüm dünyanın ha
 
 https://www.openstreetmap.org
 
-<img src="https://github.com/metemu/PyOSM/blob/master/images/osm.PNG" width="800" height="400">
+<img src="https://github.com/metemu/PyOSM/blob/master/images/osm.PNG">
 
 # OSM Veri Modelleri
 
