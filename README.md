@@ -42,7 +42,7 @@ out skel qt;
 
 https://overpass-turbo.eu/
 
-<img src="https://github.com/metemu/PyOSM/blob/master/images/overpass.PNG" width="800" height="400">
+<img src="https://github.com/metemu/PyOSM/blob/master/images/overpass.PNG">
 
 <img src="https://github.com/metemu/PyOSM/blob/master/images/road.PNG">
 
