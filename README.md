@@ -23,7 +23,7 @@ OSM'den veri indirmenin bir çok yolu vardır. OSM veritabanındaki tüm dünyay
 
 Sadece kullanıcının ihtiyaç duyduğu bölgedeki ilgili veri türünü indirilebilmesi amacıyla çeşitli sorgularla veri çekilebilen OSM Overpass API geliştirilmiştir. wget/curl komutlarıyla script içerisinde OSM verisini aşağıdaki şekilde çekmek mümkündür.
 
-wget -O target.osm "https://overpass-api.de/api/interpreter?data=node[name=\"Gielgen\"];out;"
+`wget -O target.osm "https://overpass-api.de/api/interpreter?data=node[name=\"Gielgen\"];out;"´
 
 Ayrıca https://overpass-turbo.eu/ adresinden web tarayıcısı ile sorgulama yaparak da istenen veri filtrelenerek harita üzerinde görülebilir ve JSON/GeoJSON, GPX, KML, raw OSM data formatlarında indirilebilir. Örneğin; İstanbul iline ait yol verisini indirmek için sorgu kısmına aşağıdaki komutlar yazılmalıdır:
 
