@@ -12,7 +12,7 @@ https://www.openstreetmap.org
 
 OSM'de veriler node, way, relation şeklinde tutulmaktadır. Node türü koordinat (lat,lon) bilgisi olan nokta veri tipini ifade ederken, way türü ise düğümlerden oluşan çizgi veri tipini temsil eder. Relation ise çoklu node, way ve relation içeren karma bir veri tipidir.
 
-<img src="https://github.com/metemu/PyOSM/blob/master/images/node.jpg" width="200" height="200">
+<img src="https://github.com/metemu/PyOSM/blob/master/images/node.png">
 
 # OSM'ye nasıl katkı sunulur?
 OSM'nin veri kaynağı gönüllü kullanıcılarıdır. OSM'ye katkı sunmak için yeni bir veri ekleyebilir ya da mevcut eksik/hatalı veriyi düzenleyebiliriz. Bu kapsamda tarayıcı editöreri iD ve Potlach 2 veya masaüstü uygulaması JOSM kullanılabilir.
