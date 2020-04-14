@@ -1,4 +1,4 @@
-<img src="https://github.com/metemu/PyOSM/blob/master/images/intro.PNG" width="800" height="400">
+<img src="https://github.com/metemu/PyOSM/blob/master/images/intro.PNG">
 
 # OpenStreetMap
 
